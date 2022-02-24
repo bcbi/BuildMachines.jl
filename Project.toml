@@ -1,7 +1,7 @@
 name = "BuildMachines"
 uuid = "bcdc6e61-a161-4045-bb60-3c0bf2ca02b4"
 authors = ["Dilum Aluthge"]
-version = "0.1.0"
+version = "1.0.0-DEV"
 
 [compat]
 julia = "1.6"
