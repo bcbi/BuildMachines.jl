@@ -1,5 +1,6 @@
 module BuildMachines
 
-# Write your package code here.
+# TODO: delete this function
+_hello_world() = "Hello world!"
 
 end
